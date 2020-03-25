@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Virksomheder
-nav_order: 4
+nav_order: 3
 permalink: /docs/virksomheder
 ---
 
@@ -9,10 +9,10 @@ permalink: /docs/virksomheder
 {: .no_toc }
 
 
-Her kan du søge efter virksomheder, oprette aktiviteter, ordrer, og kontaktpersoner
+Søg efter virksomheder. Opret aktiviteter, ordrer, og kontaktpersoner
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Oversigt
 {: .no_toc .text-delta }
 
 1. TOC

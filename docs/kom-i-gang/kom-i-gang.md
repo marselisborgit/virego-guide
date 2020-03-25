@@ -12,7 +12,7 @@ permalink: /docs/kom-i-gang
 Når du skal bruge Virego første gang.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Oversigt
 {: .no_toc .text-delta }
 
 1. TOC

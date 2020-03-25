@@ -1,18 +1,14 @@
 ---
 layout: default
 title: Ordrer
-nav_order: 4
+nav_order: 6
 permalink: /docs/ordrer
 ---
 
 # Ordrer
 {: .no_toc }
 
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
-
-## Table of contents
+## Oversigt
 {: .no_toc .text-delta }
 
 1. TOC
