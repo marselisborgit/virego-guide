@@ -5,7 +5,22 @@ nav_order: 2
 permalink: /docs/kom-i-gang
 ---
 
-## Sådan kommer du i gang
+# Sådan kommer du i gang
+{: .no_toc }
+
+
+Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Sign up
 
 Gå ind i en Chrome, Firefox eller Safari og gå til [virego.app](https://virego.app)   (Virego understøtter ikke Internet Explorer)
 
@@ -16,3 +31,25 @@ Du modtager nu en e-mail i din indbakke, som du skal bekræfte
 Herefter kan du gå tilbage til www.virego.app og vælge ’Log in’
 Log ind med din e-mail og det valgte password
 Så er du klar til at arbejde i Virego 😊
+
+### Tillad adgang til din fysiske placering
+
+I Chrome bliver du spurgt om du vil give virego.app adgang til din fysiske placering.
+
+![Tillad](/virego-guide/assets/kom-i-gang/tillad_placering.png "Adgang til din fysiske placering")
+
+Klik på 'tillad' hvis du ønsker at Virego skal centrere kortet i forhold til din fysiske placering.
+
+## Opret genvej (Chrome)
+
+Find de tre horisontale prikker i højre hjørne af din skærm. Ikonet hedder ‘Tilpas Google Chrome’ 
+Vælg ‘Flere værktøjer’
+Vælg ‘Opret genvej’
+Klik ‘Opret’
+Virego ligger nu tilføjet på sin hjemmeskærm
+
+![Sign up](/virego-guide/assets/kom-i-gang/opret_genvej.png "Sign up")
+
+## iPhone og iPad
+
+## Android
