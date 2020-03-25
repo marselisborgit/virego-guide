@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Virksomheder
-nav_order: 3
-permalink: /docs/virksomheder
+title: Ordrer
+nav_order: 5
+permalink: /docs/ordrer
 ---
 
-# Virksomheder
+# Ordrer
 {: .no_toc }
 
 

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Virksomheder
-nav_order: 3
-permalink: /docs/virksomheder
+title: Kontaktpersoner
+nav_order: 4
+permalink: /docs/kontaktpersoner
 ---
 
-# Virksomheder
+# Kontaktpersoner
 {: .no_toc }
 
 
