@@ -17,3 +17,5 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 1. TOC
 {:toc}
+
+## Site logo
