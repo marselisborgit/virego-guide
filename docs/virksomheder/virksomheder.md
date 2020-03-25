@@ -22,7 +22,7 @@ Søg efter virksomheder. Opret aktiviteter, ordrer, og kontaktpersoner
 
 ## Vising på kort
 
-Virksomheder i Virego er entetn røde, gule eller grønne. Farverne har forskellig betydning alt efter om det er på en virksomhedsudsøgning, aktivitetslisten eller på listen over jobordrer. Ved virksomhedsudsøgning på kortet og på listevisning betyder farverne: 
+Virksomheder i Virego er enten røde, gule eller grønne. Farverne har forskellig betydning alt efter om det er på en virksomhedsudsøgning, aktivitetslisten eller på listen over jobordrer. Ved virksomhedsudsøgning på kortet og på listevisning betyder farverne: 
 
 <span class="d-inline-block p-2 mr-1 v-align-middle bg-green-000"></span>Grøn: Seneste kontakt indenfor 3 måneder
 
