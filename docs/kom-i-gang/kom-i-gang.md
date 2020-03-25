@@ -9,7 +9,7 @@ permalink: /docs/kom-i-gang
 
 Gå ind i en Chrome, Firefox eller Safari og gå til [virego.app](https://virego.app)   (Virego understøtter ikke Internet Explorer)
 
-![Sign up](/assets/kom-i-gang/sign_up.png "Sign up")
+![Sign up](/virego-guide/assets/kom-i-gang/sign_up.png "Sign up")
 
 Her skal du vælge ’sign up’, skriv din e-mail og vælg et personligt password
 Du modtager nu en e-mail i din indbakke, som du skal bekræfte 
