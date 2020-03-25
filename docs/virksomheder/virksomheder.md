@@ -34,7 +34,7 @@ Din søgning i Virego afhænger altid af, hvor du er placeret og hvor meget du e
 
 ## Visning på liste
 
-## Søg efter virksomheder med fritekst
+## Søg med fritekst
 
 Åbn fritekstsøgning ved at klikke på ikonet forstørrelsesglas i venstre hjørne.
 
