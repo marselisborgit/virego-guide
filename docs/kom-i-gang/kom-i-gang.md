@@ -9,7 +9,7 @@ permalink: /docs/kom-i-gang
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Når du skal bruge Virego første gang.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -32,7 +32,7 @@ Herefter kan du gå tilbage til www.virego.app og vælge ’Log in’
 Log ind med din e-mail og det valgte password
 Så er du klar til at arbejde i Virego 😊
 
-### Tillad adgang til din fysiske placering
+## Tillad adgang til din fysiske placering
 
 I Chrome bliver du spurgt om du vil give virego.app adgang til din fysiske placering.
 
