@@ -25,7 +25,9 @@ Her kan du søge efter virksomheder, oprette aktiviteter, ordrer, og kontaktpers
 Virksomheder i Virego er entetn røde, gule eller grønne. Farverne har forskellig betydning alt efter om det er på en virksomhedsudsøgning, aktivitetslisten eller på listen over jobordrer. Ved virksomhedsudsøgning på kortet og på listevisning betyder farverne: 
 
 <span class="d-inline-block p-2 mr-1 v-align-middle bg-green-000"></span>Grøn: Seneste kontakt indenfor 3 måneder
+
 <span class="d-inline-block p-2 mr-1 v-align-middle bg-yellow-000"></span>Gul: 3 måneder eller mere siden seneste kontakt
+
 <span class="d-inline-block p-2 mr-1 v-align-middle bg-red-000"></span>Rød: 12 måneder eller mere siden seneste kontakt. Den røde farve repræsenterer samtidig de virksomheder, du og dine kolleger aldrig har været i kontakt med
 
 Din søgning i Virego afhænger altid af, hvor du er placeret og hvor meget du er zoom'et ind.
@@ -34,7 +36,7 @@ Din søgning i Virego afhænger altid af, hvor du er placeret og hvor meget du e
 
 ## Søg efter virksomheder med fritekst
 
-Åben fritekstsøgning ved at klikke på ikonet forstørrelsesglas i venstre hjørne.
+Åbn fritekstsøgning ved at klikke på ikonet forstørrelsesglas i venstre hjørne.
 
 ![Søgeknap](/virego-guide/assets/virksomheder/soegeknap.png "Søgeknap")
 
@@ -85,7 +87,20 @@ Nederst i filterboksen kan du fastholde dit filter, nulstille til fastholdt filt
 
 ## REJSETIDSFILTER
 
+REJSETIDSFILTER aktiveres når din søgning er nede på maximalt 10.000 resultater. 
+Du kan udsøge enten virksomheder eller jobordrer, der ligger indenfor den specifikke rejsetid, borgeren kan bevæge sig fra sin adresse. Du klikker på ikonet uret, som er placeret i venstre hjørne ved siden af fritekstsøgning. Du udfylder felterne og klikker på ANVEND.
+
+Du skal indtaste følgende oplysninger: 
+
+- Transportmiddel: Hvilket transportmiddel skal borgeren benytte
+- Indtast adresse: Fra hvilken adresse skal borgeren begynde sin rejse 
+- Rejsetid: Hvor mange minutter må borgerens rejsetid være – 30 min., 60., eller 90 min. 
+- Ankomst: Du kan benytte ankomsttidspunkt, når borgeren skal bruge offentlig transport, da denne beregning udføres i Rejseplan.dk 
+
+
 ## Print lister
+
+Du kan printe dine virksomhedsudsøgninger, aktiviteter, jobordrer og kontaktpersoner. Du klikker på ikonet download i højre hjørne. Download knappen genererer en Excel fil, som du evt. kan arbejde videre med selv. Se download knappens placering på billedet ovenfor. 
 
 ## Information om virksomheden
 
