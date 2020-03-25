@@ -94,8 +94,12 @@ Du skal indtaste følgende oplysninger:
 
 - Transportmiddel: Hvilket transportmiddel skal borgeren benytte
 - Indtast adresse: Fra hvilken adresse skal borgeren begynde sin rejse 
-- Rejsetid: Hvor mange minutter må borgerens rejsetid være – 30 min., 60., eller 90 min. 
+- Rejsetid: Hvor mange minutter må borgerens rejsetid være – 30 min., 60., eller 90 min.
 - Ankomst: Du kan benytte ankomsttidspunkt, når borgeren skal bruge offentlig transport, da denne beregning udføres i Rejseplan.dk 
+
+Du lukker REJSETIDSFILTER ved at klikke på ikonet uret igen.
+
+Du stopper din søgning i REJSETIDSFILTER ved at rykke på landkortet. Du kan derefter lave en ny søgning eller lukke REJSETIDSFILTER. 
 
 
 ## Print lister
@@ -104,4 +108,68 @@ Du kan printe dine virksomhedsudsøgninger, aktiviteter, jobordrer og kontaktper
 
 ## Information om virksomheden
 
-## Opret og gem en aktivitet
+Du kan ”komme ind” på de virksomheder du har udsøgt enten via kortet eller via listevisningen.
+
+### Fra kortet
+Når du har lavet en søgning, og du vil ind på virksomheden via kortet, kan du gøre ét af to følgende muligheder:
+
+1. Klik på en cirkel med maksimalt 10 virksomheder i. Der kommer en liste over de udsøgte virksomheder op i en lille boks, hvor du kan klikke ind på virksomheden.
+
+![Liste fra cirkel](/virego-guide/assets/virksomheder/liste_fra_cluster.png "Liste fra cirkel")
+
+2. Når du zoomer helt ind på landkortet vil de enkelte virksomheder placerer sig i små dots. Èn dot pr. virksomhed. Når du klikker på en dot kommer, der en lille boks frem, som bl.a. giver dig mulighed for at gå direkte ind på virksomheden. 
+
+![Infoboks](/virego-guide/assets/virksomheder/alert_boks.png "Infoboks")
+
+Info: Klik på info og kom direkte ind på virksomheden 
+
+Tilføj aktivitet: Klik hér og opret en aktivitet på virksomheden direkte 
+
+Tilføj ordre: Klik hér og opret en ordre på virksomheden direkte 
+
+Tilføj til favoritter: Klik hér og tilføj virksomheden til dine personlige favoritter
+
+Luk: Luk infoboksen ved at klikke på ‘Luk’
+
+### Fra listen
+
+Når du har lavet din virksomhedssøgning kan du gå fra kortet til listevisningen ved at klikke på ikonet punktopstilling i venstre hjørne. Du får listen af dine resultater og kan klikke direkte ind på virksomheden fra listen. 
+
+![Liste](/virego-guide/assets/virksomheder/liste.png "Liste")
+
+## Info om en virksomhed
+
+![Virksomhedsinfo](/virego-guide/assets/virksomheder/companydetail1.png "Virksomhedsinfo")
+
+![Virksomhedsinfo](/virego-guide/assets/virksomheder/companydetail2.png "Virksomhedsinfo")
+
+Favoritstjernen
+
+Du kan gemme virksomheden som favorit, ved at klikke på stjernen. Stjernen er placeret lige under virksomhedens navn og adresse ved siden af Vitas knappen. Favoritstjernen er din personlige markering, som ikke er synlig for dine kolleger. Favoritstjernen fjernes, ved igen at klikke på stjernen. 
+Favoritstjernen er også tilgængelig ifm. aktiviteter, jobordrer og kontaktpersoner. 
+
+Vitas
+
+Du kan åbne Vitas direkte fra Virego. Du klikker på ikonet Vitas. Virksomhedens oplysninger vil automatisk komme med på Vitas blanketten. 
+
+Virksomheds-tags
+
+Du kan sætte et såkaldt tag på virksomheden, som placerer den enkelte virksomhed i den ønskede tag gruppe. Det betyder, at du kan søge efter virksomheden nemt, når du søger med tags i filtersøgningen. Tags er dynamiske og skræddersyes til jer. Eksempler på 
+
+virksomheds-tags: 
+
+- Kampagner 
+- Industrivirksomheder 2020
+- Bygge & anlæg 2020
+- Samarbejdsaftaler 
+- Virksomhedscenter
+- Partnerskabsaftaler 
+- Virksomheden er god til skånehensyn
+
+Samarbejdsfeltet
+
+I samarbejdsfeltet kan du se det samlede antal af praktikker, løntilskud, småjob og fleksjob på virksomheden. Etableret af jer eller et andet jobcenter. Samt slutdatoen på forløbet.  
+
+Notefeltet
+
+I Virego er der få fritekstfelter for at nedbringe skrivebyrden. Notefeltet er et fritekstfelt, hvor du kan skrive en note til dig og dine kolleger. Notér gerne dato for hvornår noten er skrevet. Husk ikke at notere person- eller personfølsomme oplysninger i notefeltet. 
