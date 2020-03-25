@@ -1,10 +1,16 @@
 ---
 layout: default
-title: Home
+title: Start
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Guide til Virego"
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# Hej og velkommen til Virego 
+
+Virego er skabt til dig, som arbejder med virksomheder og borgere i beskæftigelsesbranchen. Det er vores mission med Virego at skabe et enkelt, intuitivt og smart redskab til det arbejdsmarkedsvente arbejde. 
+
+God fornøjelse!
+
+Bedste hilsner 
+fra Marselisborg IT 
