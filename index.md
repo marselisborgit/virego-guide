@@ -13,4 +13,4 @@ Virego er skabt til dig, som arbejder med virksomheder og borgere i beskæftigel
 God fornøjelse!
 
 Bedste hilsner 
-fra Marselisborg IT 
+fra Marselisborg IT ny
