@@ -40,7 +40,7 @@ Se billeder i afsnit 10.1.4 ‘Knyt en kontaktperson til en aktivitet’
 ##### Tovholder
 
 Tovholder er ordrens tovholder fra jobcentret. Det er muligt at overgive en ordre til en kollega, ved at vælge sin kollegas navn i feltet tovholder. 
-[![Ændring af tovholder på en ordre](./../../assets/video-billeder/Ændring%20af%20tovholder%20på%20en%20ordre.jpg)](https://vimeo.com/456081147 "Ændring af tovholder på en ordre")
+[![Ændring af tovholder på en ordre](/virego-guide/assets/video-billeder/Ændring%20af%20tovholder%20på%20en%20ordre.jpg)](https://vimeo.com/456081147 "Ændring af tovholder på en ordre")
 ##### Antal ønskede kandidater
 
 Antal ønskede kandidater er det antal kandidater tovholderen ønsker knyttet til ordren. Feltet her skal til forveksling ikke betyde, hvor mange medarbejdere virksomheden skal bruge i den konkrete funktion. I de tilfælde hvor virksomheden skal bruge flere medarbejdere til samme funktion, er det nødvendigt at oprette én ordre pr. medarbejder. Brug i de tilfælde funktionen ‘Kopier til ny’. Læs mere i 
@@ -58,7 +58,7 @@ Hvilken rekrutteringsalliance er primære formidlere?
 
 Du har mulighed for at konvertere en eksisterende ordre fra intern til JobAG. Du går ind på ordren enten via virksomheden eller via ordrelisten og klikker på ‘Konverter til JobAG’. 
 
-[![Konverter intern ordre til JobAG ordre](./../../assets/video-billeder/Konverter%20intern%20ordre%20til%20en%20JobAG%20ordre.jpg)](https://vimeo.com/456081147 "Ændring af tovholder på en ordre")
+[![Konverter intern ordre til JobAG ordre](/virego-guide/assets/video-billeder/Konverter%20intern%20ordre%20til%20en%20JobAG%20ordre.jpg)](https://vimeo.com/456081147 "Ændring af tovholder på en ordre")
 
 ## Rejsetidsfilter
 
@@ -78,7 +78,7 @@ Du stopper din søgning i REJSETIDSFILTER ved at rykke på landkortet. Du kan de
 
 Din søgning i REJSETIDSFILTER bliver ikke gemt, når du klikker ind på en ordre og tilbage til listen igen. 
 
-[![Rejsetidsfilter søg efter ordre](./../../assets/video-billeder/Rejsetidsfilter%20-%20Søg%20efter%20ordre.jpg)](https://vimeo.com/456081537 "rejsetidsfilter søg efter ordre")
+[![Rejsetidsfilter søg efter ordre](/virego-guide/assets/video-billeder/Rejsetidsfilter%20-%20Søg%20efter%20ordre.jpg)](https://vimeo.com/456081537 "rejsetidsfilter søg efter ordre")
 
 
 ## Fritekstsøgning
@@ -115,7 +115,7 @@ Nederst i filterboksen kan du fastholde dit filter, nulstille til fastholdt filt
 ## Fra kort til listevisning og tilbage igen
 
 Du kommer fra listevisning til landkortet ved at klikke på ikonet landkort i venstre hjørne. På samme måde kommer man fra kortet og tilbage til listevisningen, ved at klikke på ikonet punktopstilling i venstre hjørne. 
-[![Fra kort til liste og tilbage igen](./../../assets/video-billeder/Fra%20kort%20til%20liste%20og%20tilbage%20igen.jpg)](https://vimeo.com/455796576 "fra kort til liste og tilbage igen")
+[![Fra kort til liste og tilbage igen](/virego-guide/assets/video-billeder/Fra%20kort%20til%20liste%20og%20tilbage%20igen.jpg)](https://vimeo.com/455796576 "fra kort til liste og tilbage igen")
 
 ## Grøn, gul og rød
 

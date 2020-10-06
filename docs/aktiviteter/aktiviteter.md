@@ -64,13 +64,13 @@ I Virego er der få fritekstfelter for at nedbringe skrivebyrden. Notefeltet i e
 
 Tilføj aktiviteten til din kalender ved at klikke kalender af nederst i aktiviteten. Du modtager en mail i din indbakke. Åben mailen og godkend begivenheden. Hvis du ændrer aktiviteten i Virego, ændrer begivenheden sig automatisk i Outlook. Men ikke omvendt. Vær opmærksom på, at Virego ikke giver dig besked om, at aktiviteten er sendt til din indbakke. 
 
-[![Læg en planlagt aktivitet i din kalender](./../../assets/video-billeder/Læg%20en%20planlagt%20aktivitet%20i%20din%20kalender.jpg)](https://vimeo.com/456081402 "fLæg en planlagt aktivitet i din kalender")
+[![Læg en planlagt aktivitet i din kalender](/virego-guide/assets/video-billeder/Læg%20en%20planlagt%20aktivitet%20i%20din%20kalender.jpg)](https://vimeo.com/456081402 "fLæg en planlagt aktivitet i din kalender")
 
 ## Søg med fritekst
 
 Du kan søge i fritekstfeltet ved at trykke på ikonet forstørrelsesglas i venstre hjørne. Du kan søge i notefeltet.
 
-[![fritekstsøgning i aktivitetslisten](./../../assets/video-billeder/Fritekstsøgning%20på%20aktivitetslisten.jpg)](https://vimeo.com/456081234 "fritekstsøgning i aktivitetslisten")
+[![fritekstsøgning i aktivitetslisten](/virego-guide/assets/video-billeder/Fritekstsøgning%20på%20aktivitetslisten.jpg)](https://vimeo.com/456081234 "fritekstsøgning i aktivitetslisten")
 ## Brug filteret
 
 Du kan filtrere i listen af aktiviteter ved at klikke på ikonet tragten i venstre hjørne. Her kan du filtrere efter:
@@ -81,7 +81,7 @@ Du kan filtrere i listen af aktiviteter ved at klikke på ikonet tragten i venst
 
 Nederst i filterboksen kan du fastholde dit filter, nulstille til fastholdt filter eller nulstille filtret helt. Du lukker filterboksen ved at trykke på krydset i boksens højre hjørne.
 
-[![filtersøgning i aktivitetslisten](./../../assets/video-billeder/Filtersøgning%20på%20aktivitetslisten.jpg)](https://vimeo.com/456081234 "fritekstsøgning i aktivitetslisten")
+[![filtersøgning i aktivitetslisten](/virego-guide/assets/video-billeder/Filtersøgning%20på%20aktivitetslisten.jpg)](https://vimeo.com/456081234 "fritekstsøgning i aktivitetslisten")
 
 ## Planlagte, overskredet og afsluttede aktiviteter
 
@@ -96,6 +96,6 @@ Nederst ligger de afsluttede aktiviteter, som har en grålig tone
 Du kan klikke på den enkelte aktivitet, nå du vil læse mere, redigere eller slette aktiviteten. Du kan tilføje aktiviteten som favorit, oprette aktiviteten i kalender i højre hjørne, eller slette aktiviteten nederst på aktiviteten. Slette knappen er indikeret med en rød farve.
 
 
-[![Rediger eller slet en aktivitet via aktiviteslisten](../../assets/video-billeder/Rediger%20eller%20slet%20en%20aktivitet%20via%20aktivitetsliste.jpg)](https://vimeo.com/456081502 "Rediger eller slet en aktivitet via aktivitetslisten")
+[![Rediger eller slet en aktivitet via aktiviteslisten](/virego-guide/assets/video-billeder/Rediger%20eller%20slet%20en%20aktivitet%20via%20aktivitetsliste.jpg)](https://vimeo.com/456081502 "Rediger eller slet en aktivitet via aktivitetslisten")
 
 ## Print lister

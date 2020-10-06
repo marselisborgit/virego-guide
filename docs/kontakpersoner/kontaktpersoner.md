@@ -11,7 +11,7 @@ permalink: /docs/kontaktpersoner
 Når du står på ‘Kontaktpersoner’, får du den samlede liste over dine egne og dine kollegers kontaktpersoner ude på virksomhederne. Du kan ringe og skrive direkte herfra! 
 {: .fs-6 .fw-300 }
 
-[![Introduktion til kontaktpersoner](./../../assets/video-billeder/Introduktion%20til%20kontakpersoner.jpg)](https://vimeo.com/456081300 "Introduktion til kontaktpersoner")
+[![Introduktion til kontaktpersoner](/virego-guide/assets/video-billeder/Introduktion%20til%20kontakpersoner.jpg)](https://vimeo.com/456081300 "Introduktion til kontaktpersoner")
 
 
 ## Oversigt
@@ -25,9 +25,9 @@ Når du står på ‘Kontaktpersoner’, får du den samlede liste over dine egn
 ## Opret en kontaktperson
 
 Du kan oprette en kontaktperson direkte uden at finde virksomheden først. Du klikker på ikonet + i venstre hjørne, udfylder felterne og trykker gem i venstre hjørne. Fornavn og efternavn er obligatoriske felter. (Det kan variere fra organisation til organisation, hvilke felter der er obligatoriske.) Det er god kollega-hjælp at udfylde de felter, som ikke er obligatoriske. 
-[![Opret en kontaktperson via listevisning](./../../assets/video-billeder/Opret%20en%20kontaktperson%20via%20listevisning.jpg)](https://vimeo.com/455800633 "Opret en kontaktperson via listevisning")
+[![Opret en kontaktperson via listevisning](/virego-guide/assets/video-billeder/Opret%20en%20kontaktperson%20via%20listevisning.jpg)](https://vimeo.com/455800633 "Opret en kontaktperson via listevisning")
 
-[![Opret en kontaktperson via virksomhedsudsøgning](./../../assets/video-billeder/Opret%20en%20kontaktperson%20via%20virksomhedsudsøgning.jpg)](https://vimeo.com/456081480 "Opret en kontaktperson via virksomhedsudsøgning")
+[![Opret en kontaktperson via virksomhedsudsøgning](/virego-guide/assets/video-billeder/Opret%20en%20kontaktperson%20via%20virksomhedsudsøgning.jpg)](https://vimeo.com/456081480 "Opret en kontaktperson via virksomhedsudsøgning")
 
 ## Fritekstsøgning
 Du kan søge i fritekstfeltet ved at klikke på ikonet forstørrelsesglas i venstre hjørne. Her kan du søge efter fornavn, efternavn, telefonnummer og e-mail. 
@@ -54,4 +54,4 @@ På listen over kontaktpersoner kan du klikke på telefonnummer eller e-mail, hv
 
 Hvis du ønsker at tilgå, redigere eller slette en kontaktperson, klikker du på pilen ved kontaktpersonen i højre hjørne. Se billedet ovenfor. Læs mere i punkt 10.1.4 ‘Knyt en kandidat til en aktivitet’. 
 
-[![Rediger eller slet en kontaktperson](./../../assets/video-billeder/Rediger%20eller%20slet%20en%20kontaktperson.jpg)](hhttps://vimeo.com/456081514 "Rediger eller slet en kontaktperson")
+[![Rediger eller slet en kontaktperson](/virego-guide/assets/video-billeder/Rediger%20eller%20slet%20en%20kontaktperson.jpg)](hhttps://vimeo.com/456081514 "Rediger eller slet en kontaktperson")
