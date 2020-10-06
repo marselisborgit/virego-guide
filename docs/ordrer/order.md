@@ -23,11 +23,11 @@ Når du står på ‘Ordrer’, får du den samlede liste over aktive ordrer –
 
 Du kan oprette en ordre direkte uden at finde virksomheden først. Du klikker på ikonet + i venstre hjørne. Du udfylder felterne og trykker gem i venstre hjørne.
 
-Deadline
+##### Deadline
 
 Deadline er datoen for, hvornår du som tovholder senest ønsker at modtage relevante kandidater til ordren. 
 
-Kontaktperson 
+##### Kontaktperson 
 
 Kontaktperson er kontaktpersonen fra virksomheden. Det er obligatorisk, at der skal være tilknyttet en kontaktperson for at gemme ordren. Til forskel fra når du opretter en kontaktperson ifm. en aktivitet, så er både telefonnummer og e-mail obligatoriske felter. Det betyder, hvis en eksisterende kontaktperson ikke er oprettet i Virego med telefonnummer og e-mail, vil du blive bedt om at udfylde disse felter. Du trykker på feltet kontaktperson, udfylder de nødvendige felter og trykker ‘gem’ i venstre hjørne.
 
@@ -37,16 +37,16 @@ Er der ikke en kontaktperson tilknyttet virksomheden i forvejen, skal du tilføj
 
 Se billeder i afsnit 10.1.4 ‘Knyt en kontaktperson til en aktivitet’
 
-Tovholder
+##### Tovholder
 
 Tovholder er ordrens tovholder fra jobcentret. Det er muligt at overgive en ordre til en kollega, ved at vælge sin kollegas navn i feltet tovholder. 
-
-Antal ønskede kandidater
+[![Ændring af tovholder på en ordre](./../../assets/video-billeder/Ændring%20af%20tovholder%20på%20en%20ordre.jpg)](https://vimeo.com/456081147 "Ændring af tovholder på en ordre")
+##### Antal ønskede kandidater
 
 Antal ønskede kandidater er det antal kandidater tovholderen ønsker knyttet til ordren. Feltet her skal til forveksling ikke betyde, hvor mange medarbejdere virksomheden skal bruge i den konkrete funktion. I de tilfælde hvor virksomheden skal bruge flere medarbejdere til samme funktion, er det nødvendigt at oprette én ordre pr. medarbejder. Brug i de tilfælde funktionen ‘Kopier til ny’. Læs mere i 
 punkt 16.1.1 ‘Kopier til ny’
 
-Delt med JobAG
+##### Delt med JobAG
 
 Når du opretter en ordre, er den som udgangspunkt intern. Du har mulighed for at dele din ordre med JobAG/Jobnet for Arbejdsgivere. Det betyder, at du offentliggør jobordren, og deler den med alle Danmarks jobcentre. Klik af ved feltet ‘Delt med JobAG’. Du vil blive bedt om at udfylde tre ekstra felter:
 
@@ -58,8 +58,9 @@ Hvilken rekrutteringsalliance er primære formidlere?
 
 Du har mulighed for at konvertere en eksisterende ordre fra intern til JobAG. Du går ind på ordren enten via virksomheden eller via ordrelisten og klikker på ‘Konverter til JobAG’. 
 
+[![Konverter intern ordre til JobAG ordre](./../../assets/video-billeder/Konverter%20intern%20ordre%20til%20en%20JobAG%20ordre.jpg)](https://vimeo.com/456081147 "Ændring af tovholder på en ordre")
 
-## REJSETIDSFILTER
+## Rejsetidsfilter
 
 REJSETIDSFILTER aktiveres når din søgning er nede på maximalt 10.000 resultater. 
 Du kan udsøge jobordrer, der ligger indenfor den specifikke rejsetid, borgeren kan bevæge sig fra sin adresse. Du klikker på ikonet uret, som er placeret i venstre hjørne ved siden af fritekstsøgning. Du udfylder felterne og klikker på ANVEND. Listen vil nu være filtreret med de jobordrer, der er relevante. Det er muligt at se jobordrerne på et kort, ved at trykke på ikonet landkort i venstre hjørne.
@@ -76,6 +77,9 @@ Du lukker REJSETIDSFILTER ved at klikke på ikonet uret igen.
 Du stopper din søgning i REJSETIDSFILTER ved at rykke på landkortet. Du kan derefter lave en ny søgning eller lukke REJSETIDSFILTER. 
 
 Din søgning i REJSETIDSFILTER bliver ikke gemt, når du klikker ind på en ordre og tilbage til listen igen. 
+
+[![Rejsetidsfilter søg efter ordre](./../../assets/video-billeder/Rejsetidsfilter%20-%20Søg%20efter%20ordre.jpg)](https://vimeo.com/456081537 "rejsetidsfilter søg efter ordre")
+
 
 ## Fritekstsøgning
 Du kan søge i fritekstfeltet ved at klikke på ikonet forstørrelsesglas i venstre hjørne. Her kan du søge efter:
@@ -111,6 +115,7 @@ Nederst i filterboksen kan du fastholde dit filter, nulstille til fastholdt filt
 ## Fra kort til listevisning og tilbage igen
 
 Du kommer fra listevisning til landkortet ved at klikke på ikonet landkort i venstre hjørne. På samme måde kommer man fra kortet og tilbage til listevisningen, ved at klikke på ikonet punktopstilling i venstre hjørne. 
+[![Fra kort til liste og tilbage igen](./../../assets/video-billeder/Fra%20kort%20til%20liste%20og%20tilbage%20igen.jpg)](https://vimeo.com/455796576 "fra kort til liste og tilbage igen")
 
 ## Grøn, gul og rød
 

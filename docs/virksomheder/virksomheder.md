@@ -20,7 +20,7 @@ Søg efter virksomheder. Opret aktiviteter, ordrer, og kontaktpersoner
 
 ---
 
-## Vising på kort
+## Visning på kort
 
 Virksomheder i Virego er enten røde, gule eller grønne. Farverne har forskellig betydning alt efter om det er på en virksomhedsudsøgning, aktivitetslisten eller på listen over jobordrer. Ved virksomhedsudsøgning på kortet og på listevisning betyder farverne: 
 
@@ -38,7 +38,7 @@ Din søgning i Virego afhænger altid af, hvor du er placeret og hvor meget du e
 
 Åbn fritekstsøgning ved at klikke på ikonet forstørrelsesglas i venstre hjørne.
 
-![Søgeknap](/virego-guide/assets/virksomheder/soegeknap.png "Søgeknap")
+![Søgeknap](./../../assets/virksomheder/soegeknap.png "Søgeknap")
 
 Du kan søge efter:
 
@@ -68,7 +68,7 @@ Du kan nemt slette din fritekstsøgning, ved at trykke på krydset i højre hjø
 
 Åben filtersøgning ved at klikke på ikonet tragten i venstre hjørne. 
 
-![Filter](/virego-guide/assets/virksomheder/filter.png "Filter")
+![Filter](./../../assets/virksomheder/filter.png "Filter")
 
 I filtret kan du lave en kombineret søgning, som snævrer din søgning ind til en overskuelig liste af relevante virksomheder. Du kan søge efter følgende kriterier: 
 
@@ -102,6 +102,8 @@ Du lukker REJSETIDSFILTER ved at klikke på ikonet uret igen.
 Du stopper din søgning i REJSETIDSFILTER ved at rykke på landkortet. Du kan derefter lave en ny søgning eller lukke REJSETIDSFILTER. 
 
 
+[![Rejsetidsfilter søg efter virksomheder](./../../assets/video-billeder/Rejsetidsfilter%20-%20Søg%20efter%20virksomheder.jpg)](https://vimeo.com/456081599 "rejsetidsfilter søg efter virksomheder")s
+
 ## Print lister
 
 Du kan printe dine virksomhedsudsøgninger, aktiviteter, jobordrer og kontaktpersoner. Du klikker på ikonet download i højre hjørne. Download knappen genererer en Excel fil, som du evt. kan arbejde videre med selv. Se download knappens placering på billedet ovenfor. 
@@ -115,11 +117,11 @@ Når du har lavet en søgning, og du vil ind på virksomheden via kortet, kan du
 
 1. Klik på en cirkel med maksimalt 10 virksomheder i. Der kommer en liste over de udsøgte virksomheder op i en lille boks, hvor du kan klikke ind på virksomheden.
 
-![Liste fra cirkel](/virego-guide/assets/virksomheder/liste_fra_cluster.png "Liste fra cirkel")
+![Liste fra cirkel](./../../assets/virksomheder/liste_fra_cluster.jpg "Liste fra cirkel")
 
-2. Når du zoomer helt ind på landkortet vil de enkelte virksomheder placerer sig i små dots. Èn dot pr. virksomhed. Når du klikker på en dot kommer, der en lille boks frem, som bl.a. giver dig mulighed for at gå direkte ind på virksomheden. 
+1. Når du zoomer helt ind på landkortet vil de enkelte virksomheder placerer sig i små dots. Èn dot pr. virksomhed. Når du klikker på en dot kommer, der en lille boks frem, som bl.a. giver dig mulighed for at gå direkte ind på virksomheden. 
 
-![Infoboks](/virego-guide/assets/virksomheder/alert_boks.png "Infoboks")
+![Infoboks](./../../assets/virksomheder/alert_boks.png "Infoboks")
 
 Info: Klik på info og kom direkte ind på virksomheden 
 
@@ -135,28 +137,29 @@ Luk: Luk infoboksen ved at klikke på ‘Luk’
 
 Når du har lavet din virksomhedssøgning kan du gå fra kortet til listevisningen ved at klikke på ikonet punktopstilling i venstre hjørne. Du får listen af dine resultater og kan klikke direkte ind på virksomheden fra listen. 
 
-![Liste](/virego-guide/assets/virksomheder/liste.png "Liste")
+![Liste](./../../assets/virksomheder/liste.png "Liste")
 
 ## Info om en virksomhed
 
-![Virksomhedsinfo](/virego-guide/assets/virksomheder/companydetail1.png "Virksomhedsinfo")
+![Virksomhedsinfo](./../../assets/virksomheder/companydetail1.png "Virksomhedsinfo")
 
-![Virksomhedsinfo](/virego-guide/assets/virksomheder/companydetail2.png "Virksomhedsinfo")
+![Virksomhedsinfo](./../../assets/virksomheder/companydetail2.png "Virksomhedsinfo")
 
-Favoritstjernen
+## Favoritstjernen
 
 Du kan gemme virksomheden som favorit, ved at klikke på stjernen. Stjernen er placeret lige under virksomhedens navn og adresse ved siden af Vitas knappen. Favoritstjernen er din personlige markering, som ikke er synlig for dine kolleger. Favoritstjernen fjernes, ved igen at klikke på stjernen. 
 Favoritstjernen er også tilgængelig ifm. aktiviteter, jobordrer og kontaktpersoner. 
 
-Vitas
+## Vitas
 
 Du kan åbne Vitas direkte fra Virego. Du klikker på ikonet Vitas. Virksomhedens oplysninger vil automatisk komme med på Vitas blanketten. 
+[![Introduktion til virksomhedsindformation favoritstjerne og vitasknap](./../../assets/video-billeder/Introduktion%20til%20virksomhedsinformation%20-%20Favoritstjerne%20og%20Vitasknap.jpg)](hhttps://vimeo.com/456081514 "Introduktion til virksomhedsindformation favoritstjerne og vitasknap")
 
-Virksomheds-tags
+## Virksomheds-tags
 
 Du kan sætte et såkaldt tag på virksomheden, som placerer den enkelte virksomhed i den ønskede tag gruppe. Det betyder, at du kan søge efter virksomheden nemt, når du søger med tags i filtersøgningen. Tags er dynamiske og skræddersyes til jer. Eksempler på 
 
-virksomheds-tags: 
+##### virksomheds-tags: 
 
 - Kampagner 
 - Industrivirksomheder 2020
@@ -166,10 +169,10 @@ virksomheds-tags:
 - Partnerskabsaftaler 
 - Virksomheden er god til skånehensyn
 
-Samarbejdsfeltet
+## Samarbejdsfeltet
 
 I samarbejdsfeltet kan du se det samlede antal af praktikker, løntilskud, småjob og fleksjob på virksomheden. Etableret af jer eller et andet jobcenter. Samt slutdatoen på forløbet.  
 
-Notefeltet
+## Notefeltet
 
 I Virego er der få fritekstfelter for at nedbringe skrivebyrden. Notefeltet er et fritekstfelt, hvor du kan skrive en note til dig og dine kolleger. Notér gerne dato for hvornår noten er skrevet. Husk ikke at notere person- eller personfølsomme oplysninger i notefeltet. 
